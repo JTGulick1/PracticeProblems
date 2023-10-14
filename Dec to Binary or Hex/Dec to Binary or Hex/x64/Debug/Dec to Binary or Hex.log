@@ -1,2 +1,3 @@
 ﻿  DecToBinToHex.cpp
-  Dec to Binary or Hex.vcxproj -> C:\Users\JT\source\repos\Dec to Binary or Hex\x64\Debug\Dec to Binary or Hex.exe
+C:\Users\JT\PracticeProblems\Dec to Binary or Hex\Dec to Binary or Hex\DecToBinToHex.cpp(49,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Dec to Binary or Hex.vcxproj -> C:\Users\JT\PracticeProblems\Dec to Binary or Hex\x64\Debug\Dec to Binary or Hex.exe
